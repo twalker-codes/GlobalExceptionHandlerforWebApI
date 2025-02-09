@@ -1,14 +1,3 @@
----
-name: GlobalExceptionHandlerforWebApI
-description: How to setup global error handling pattern for ASP.NET Core Mimimal API
-page_type: sample
-languages:
-- csharp
-products:
-- .NET 9
-- ASP.NET Core Minimal API
----
-
 # GlobalExceptionHandlerforWebApI (Demo App)
 
 This GitHub repository GlobalExceptionHandlerforWebApI demonstrates how to implement a global error handling pattern in 
